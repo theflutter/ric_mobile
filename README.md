@@ -1,4 +1,4 @@
-# ric_app
+# home_page
 
 A new Flutter project.
 
